@@ -1,0 +1,27 @@
+body{
+	background-color:#0066cc;
+	position:relative;
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.header{
+	background-color:#004d99;
+	height:50px;
+	
+}
+.body1{
+	border:5px solid #4CAF50; 
+	position:absolute;
+	left:500px;
+	top:200px;
+}
