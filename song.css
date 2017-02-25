@@ -6,3 +6,12 @@ img {
 table, td {
 	border: 1px #70b8ff dashed;
 }
+table{
+	background-color:#f2f2f2;
+	
+}
+
+td{
+	text-align:right;
+	background-color:#99ff66;
+}
